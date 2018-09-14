@@ -1,4 +1,4 @@
-# [questions.md]
+# questions.md
 
 ## What do the numbers inside the parentheses after a function name do?
 
